@@ -3,7 +3,7 @@ kind: Pod
 metadata:
   name: busybox1
   labels:
-    app: busybox1
+    app: busybox1-labelchange
 spec:
   containers:
   - image: busybox
